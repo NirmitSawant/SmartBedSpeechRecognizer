@@ -1,4 +1,4 @@
-# SpeechRecognition
+# Smart Bed Speech Recognizer
 
 An application made to record your voice.
 Convert it into text and trigger a action when a certain word is found!
